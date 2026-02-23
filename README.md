@@ -1,6 +1,6 @@
-# Olá, sou Caboom!
+# Olá, sou Gabriel Vitor!
 
-🎓 Estudante do Ensino Médio Técnico em **Programação de Jogos 2D**  
+🎓 Estudante do Ensino Médio Técnico em **Programação de Jogos Digitais**  
 
 ---
 ## Estatísticas do GitHub
